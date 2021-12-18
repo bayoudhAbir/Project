@@ -1,0 +1,43 @@
+.mb-3{
+    width: 80% ;
+    margin-left: 50px ;    
+}
+.form{
+    width:100% ;
+}
+.formContainer{
+    flex:1;
+    justify-content:center ;
+    align-items: center;
+    background-color:whitesmoke;
+    width:50% ;
+    border-radius: 8px;
+    padding: 50px;
+    margin-top: 190px; 
+    margin-left: 400px;  
+    margin-right: 50px;
+      
+}
+.but{
+    
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 170px;
+    margin-top: 10px;
+    margin-block-end: 5px;
+}
+.title{
+    font-size: 2cm;
+    font-style:normal;
+    font-family: 'Times New Roman', Times, serif;
+    align-self: center;
+}
+.formLabel{
+    
+ margin-right: 425px;   
+}
+.formLabel1{
+margin-right: 435px;
+}
+.formLabel2{
+   margin-top: 15px;
+}

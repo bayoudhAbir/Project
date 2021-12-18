@@ -1,0 +1,15 @@
+.buttonContainer{
+    width:15%;
+    height: 800px;
+    justify-content: center;
+    text-align: center;
+    justify-content:center ;
+    align-items: center ;
+    background-color:whitesmoke;
+    border-radius: 8px;
+      
+}
+.bt-Cont{
+    margin-top: 20px;
+   
+}

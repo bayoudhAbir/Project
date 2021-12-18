@@ -1,0 +1,23 @@
+.formRegis{
+    width: 80%;
+    background-color: aliceblue;
+    border-radius: 8px;
+    
+}
+
+.regis{
+    width: 70%;
+    margin-left: 110px;
+    margin-top: 5px;
+    border-radius: 8px;
+}
+.lab
+{
+ margin-top: 30px;
+}
+.bt{
+  margin-left: 170px;
+  margin-top: 15px;
+  margin-block-end: 20px;
+  
+}
